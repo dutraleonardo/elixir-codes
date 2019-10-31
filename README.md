@@ -6,7 +6,7 @@ Open a terminal and run
 ```
 git clone https://github.com/dutraleonardo/pysimplesdns
 cd elixir-codes
-elixir programname.ex
+elixir filename.ex
 ```
 Be sure you have Elixir already installed:
 
