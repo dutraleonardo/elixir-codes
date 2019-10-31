@@ -4,7 +4,7 @@ Simple elixir programs, created to practice Elixir.
 # How to run:
 Open a terminal and run
 ```
-git clone https://github.com/dutraleonardo/pysimplesdns
+https://github.com/dutraleonardo/elixir-codes.git
 cd elixir-codes
 elixir filename.ex
 ```
